@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @DeaLoic
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Привет, меня зовут Павел
+- Окончил МГТУ им. Н.Э. Баумана по специальности "Программная инженерия" в 2022 со средни баллом ~4.75.
+- 3,5 года опыта. Системное программирование, R&D. 🦀 Rust 🦀.
+- C > C++
+- Травмирующий опыт с ML 😿
 
-<!---
-DeaLoic/DeaLoic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Курсовые работы по [Базам Данных](https://github.com/DeaLoic/bmstu-CDB), [Операционным Системам](https://github.com/DeaLoic/bmstu-OS-course) и [Компьютерной Графике](bmstu-course-CG)
+
+[Отборочное задание на BEST HACK 2019](https://github.com/DeaLoic/Homo_invidens). (В финале первое место)
